@@ -14,7 +14,7 @@ body {
     font-size: 17px;
     color: #646464;
     line-height: 1.7;
-    /* background-color: #cfcfcf; */
+    overflow: hidden;
 }
 
 h1,
